@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/jameswsm/configure-ad)
 - <b>Network File Shares and Permissions</b>
   - [Sharing resources over the network](https://github.com/jameswsm/sharing-resources)
-  - [Creating File Shares to allow permissions to groups or individuals](https://github.com/jameswsm/file-permissions)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jameswsm/file-permissions)
 
 <h2>🤳Connect with me:</h2>
 
