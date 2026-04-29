@@ -1,6 +1,6 @@
 <h1>Hi, I'm James, a Computer Science Graduate focused on Machine Learning and <a href="https://linkedin.com/in/JamesWSM">IT</a>☺</h1>
 
-<h2>🤖 Machine Learning & AI Projects:</h2>
+<!-- <h2>🤖 Machine Learning & AI Projects:</h2>
 
 - <b>[Coronary Heart Disease Risk Prediction](https://github.com/jameswsm/coronary-heart-disease-ml)</b>
   - Built a supervised machine learning classification project using Python, pandas, and scikit-learn to predict 10-year CHD risk.
@@ -8,7 +8,7 @@
 
 - <b>[Urban Air Quality and Health Risk Prediction](https://github.com/jameswsm/air-quality-health-risk-ml)</b>
   - Built a regression model using environmental and air quality data to predict health risk scores.
-  - Demonstrates model comparison, Random Forest regression, feature selection, hyperparameter tuning, RMSE, and MAE.
+  - Demonstrates model comparison, Random Forest regression, feature selection, hyperparameter tuning, RMSE, and MAE. -->
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
